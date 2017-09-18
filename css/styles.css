@@ -1,0 +1,11 @@
+#output {
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bold;
+  display: none;
+}
+label {
+  font-style: normal;
+  font-size: 20px;
+  color:blue;
+}
